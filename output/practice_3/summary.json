@@ -1,0 +1,9 @@
+{
+    "users_count": 100,
+    "products_count": 30,
+    "orders_count": 15000,
+    "rows_count": 15000,
+    "total_revenue": 384543651.84,
+    "period_start": "2024-01-01 00:10:25",
+    "period_end": "2024-03-31 23:34:00"
+}
